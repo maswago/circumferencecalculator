@@ -1,0 +1,23 @@
+#myH1{
+   display: block;
+   text-align: center;
+   font-family: Verdana;
+}
+#myH2{
+   display: block;
+   text-align: center;
+   font-family: Verdana;
+}
+#mySubmit{
+   padding: 10px 20px;
+   font-size: 1.5rem;
+   color: white;
+   background-color: rgb(219, 115, 219);
+   transition: 0.25s;
+   border-width: 5px;
+   border-radius: 5px;
+}
+#mySubmit:hover{
+   background-color:rgb(231, 30, 231);
+ 
+}
